@@ -1,5 +1,5 @@
 # A guide on installing themes for Code::Blocks
-The Code::Blocks IDE does not have different themes by default and uses the original Windows color theme and most of the articles about installing themes in Code::Blocks lead to dead links and incomplete tutorials, this guide aims to fix that.
+The Code::Blocks IDE does not have different themes by default as it uses the original Windows color theme. Also, most of the articles about installing themes in Code::Blocks lead to dead links and incomplete tutorials, this guide aims to help with that.
 # Installation Steps (for Windows only):
 1. Download the `colour_themes.conf` config file from [this gist](https://gist.github.com/yzhong52/6852140faa233408de67). All credit for the file goes to [the author](https://github.com/yzhong52)
 2. Make sure Code::Blocks is not running.
